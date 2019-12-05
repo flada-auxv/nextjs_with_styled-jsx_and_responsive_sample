@@ -1,5 +1,5 @@
-import Link from 'next/link'
 import dynamic from'next/dynamic';
+import Link from 'next/link'
 import { ProvideMediaMatchers } from 'react-media-match';
 
 // SSR をオプション等で disable する術がないので動的にコンポーネントをimportする API を使って CSR を強制する

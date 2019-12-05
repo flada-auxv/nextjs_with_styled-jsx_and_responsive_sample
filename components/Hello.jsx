@@ -1,4 +1,4 @@
-import { ProvideMediaMatchers, MediaServerRender, useMedia } from 'react-media-match';
+import { useMedia } from 'react-media-match';
 import css from 'styled-jsx/css';
 
 // component の外で css 関数を使って定義する必要がある
