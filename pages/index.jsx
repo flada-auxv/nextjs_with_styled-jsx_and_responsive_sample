@@ -21,7 +21,6 @@ const SSR = props => {
       <div>
         <h2>Using MediaServerRender</h2>
         <MediaServerRender predicted={predicate(props.userAgent)} hydrated>
-          <p>what color?</p>
           <Hello />
         </MediaServerRender>
       </div>
