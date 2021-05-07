@@ -14,6 +14,6 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-media-match": "^1.10.2",
-    "ua-parser-js": "^0.7.20"
+    "ua-parser-js": "^0.7.24"
   }
 }
