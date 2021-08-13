@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mobile-detect": "^1.4.4",
-    "next": "^9.1.4",
+    "next": "^11.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-media-match": "^1.10.2",
